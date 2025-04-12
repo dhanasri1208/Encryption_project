@@ -1,7 +1,4 @@
 # Encryption_project
-Here’s a sample `README.md` you can use for your GitHub repository:
-
----
 
 # 🔐 Multi-Algorithm Encryption CLI
 
